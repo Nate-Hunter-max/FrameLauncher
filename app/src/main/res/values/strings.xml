@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Frame launcher</string>
+    <string name="slide_description">Слайд</string>
+    <string name="show_button">Начать показ</string>
+    <string name="br_button">Яркость</string>
+    <string name="fd_button">Папка</string>
+    <string name="speed_button">Время слайда</string>
+    <string name="scale_button">Размер</string>
+    <string name="marker">-></string>
+</resources>
